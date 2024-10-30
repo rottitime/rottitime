@@ -3,7 +3,6 @@
 22+ years experienced Frontend developer crafting responsive web applications using the latest web standards and open-source tools like TypeScript, React, and Next.js. Focus on Accessibility, search engine optimisation, performance and security
 
 
-
 ## Tech Stack 🛠
 
 Frontend Development 
